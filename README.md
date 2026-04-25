@@ -38,9 +38,9 @@ Client → FastAPI API Layer → Service Layer → Idempotency Store
 
 # 📊 Architecture / Sequence Diagram
 
-👉 INSERT YOUR SEQUENCE DIAGRAM HERE
 
-(Replace this section with your Mermaid diagram or image)
+
+![Sequence Diagram](SD.jpeg)
 
 ---
 
